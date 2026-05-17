@@ -821,12 +821,13 @@ ul, ol { list-style: none; }
 }
 
 /* Form groups */
-.form-group { margin-bottom: 24px; }
+.form-group { margin-bottom: 32px; }
 
 .form-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
+  margin-top: 20px;
 }
 
 label {
